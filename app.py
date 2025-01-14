@@ -99,7 +99,7 @@ def main():
         st.subheader("About ToDo List App")
         st.info("You were like a spring breeze. You shook my heart, and gave me the courage to move forward.")
         st.info(" I met a girl under fully bloomed cherry blossom and my faith began to change")
-        st.text("Maroof husain()")
+        st.text("Maroof husain")
 
 if __name__ == '__main__':
     main()
