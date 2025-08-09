@@ -1,4 +1,5 @@
-Flask==3.0.3
+streamlit
+flask==3.0.3
 gunicorn==21.2.0
 plotly==5.23.0
 pandas==2.2.2
